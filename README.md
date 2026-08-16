@@ -117,7 +117,7 @@ I treat documentation as a deliverable, not an afterthought, and I'm equally com
 ## 📌 Featured Projects
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/teach-it-to-grandma.svg" width="97%" alt="Teach It To Grandma: ElevenLabs Sonderpreis Winner"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/teach-it-to-grandma.svg" width="100%" alt="Teach It To Grandma: ElevenLabs Sonderpreis Winner"/></summary>
 <br/>
 
 Voice-based teaching tool: explain a concept out loud, and the system checks whether "Grandma" would actually understand it. Built at a THWS hackathon and awarded the **ElevenLabs Sonderpreis** (Best Project Built With ElevenLabs).
@@ -134,7 +134,7 @@ Voice-based teaching tool: explain a concept out loud, and the system checks whe
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/single-source-of-truth.svg" width="97%" alt="Single Source of Truth: AI Triage for Construction Communication"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/single-source-of-truth.svg" width="100%" alt="Single Source of Truth: AI Triage for Construction Communication"/></summary>
 <br/>
 
 Reads unstructured written communication (emails, chat, meeting notes) and sorts it into organized records of tasks, costs, and schedules. Built in under six hours at the ConStructAI Hackathon (THWS), with civil engineering students on the team.
@@ -151,7 +151,7 @@ Reads unstructured written communication (emails, chat, meeting notes) and sorts
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/verifymatic.svg" width="97%" alt="VerifyMatic: Email Verification Engine"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/verifymatic.svg" width="100%" alt="VerifyMatic: Email Verification Engine"/></summary>
 <br/>
 
 Lightweight email-verification engine that checks syntax, DNS, and mailbox deliverability, then flags disposable or role-based addresses before they reach a mailing list.
@@ -168,7 +168,7 @@ Lightweight email-verification engine that checks syntax, DNS, and mailbox deliv
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/trade-wizard.svg" width="97%" alt="Trade Wizard: ML-Backed Trade Value Forecasting"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/trade-wizard.svg" width="100%" alt="Trade Wizard: ML-Backed Trade Value Forecasting"/></summary>
 <br/>
 
 Turns raw import/export trade statistics into interactive visual insight and ML-backed value forecasts. Pick a reporting economy, a product sector, and a year, and get a prediction.
@@ -185,7 +185,7 @@ Turns raw import/export trade statistics into interactive visual insight and ML-
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/next-gen-hr.svg" width="97%" alt="Next Gen HR: AI Recruitment Platform"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/next-gen-hr.svg" width="100%" alt="Next Gen HR: AI Recruitment Platform"/></summary>
 <br/>
 
 Automates the early stages of technical hiring: resume-based job matching, skill-based aptitude and coding tests, and a video-interview round with real-time facial emotion analysis and speech-to-text answer evaluation.
@@ -202,7 +202,7 @@ Automates the early stages of technical hiring: resume-based job matching, skill
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/microresnet.svg" width="97%" alt="MicroResNet: Efficient Medical Image Classification"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/microresnet.svg" width="100%" alt="MicroResNet: Efficient Medical Image Classification"/></summary>
 <br/>
 
 A PyTorch pipeline benchmarking three standard CNN architectures against a custom, efficiency-focused architecture (MicroResNet) on medical image classification, plus transfer learning under data scarcity.
@@ -219,7 +219,7 @@ A PyTorch pipeline benchmarking three standard CNN architectures against a custo
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/snifftest.svg" width="97%" alt="SniffTest: Media Literacy Game &amp; Manipulation Detector"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/snifftest.svg" width="100%" alt="SniffTest: Media Literacy Game &amp; Manipulation Detector"/></summary>
 <br/>
 
 A browser-based media-literacy game that trains users to recognize misleading claims and rhetorical manipulation, backed by local Python APIs for true/misleading and manipulation-tactic classification.
@@ -236,7 +236,7 @@ A browser-based media-literacy game that trains users to recognize misleading cl
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/particle-filter.svg" width="97%" alt="Particle Filter: Multi-Object Sensor Fusion"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/particle-filter.svg" width="100%" alt="Particle Filter: Multi-Object Sensor Fusion"/></summary>
 <br/>
 
 A permutation-invariant mixture particle filter tracking multiple indistinguishable balls in 2D ballistic motion under sensor noise, variable observation timing, and full sensor blackout.
