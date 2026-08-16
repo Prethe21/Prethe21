@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 58" width="100%" height="58" role="img" aria-label="Next Gen HR: AI Recruitment Platform">
+<defs>
+<linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#1a1140"/>
+<stop offset="55%" stop-color="#3d1f7a"/>
+<stop offset="100%" stop-color="#1a3a8f"/>
+</linearGradient>
+<linearGradient id="sh4" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="50%" stop-color="#ffffff" stop-opacity="0.16"/>
+<stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="c4"><rect x="0" y="0" width="880" height="58" rx="12"/></clipPath>
+<style>
+.shimmer4 { animation: shimmer4 24s ease-in-out infinite; }
+@keyframes shimmer4 {
+  0% { transform: translateX(-880px); }
+  60% { transform: translateX(880px); }
+  100% { transform: translateX(880px); }
+}
+.chev4 { animation: chevpulse4 1.8s ease-in-out infinite; transform-origin: 854px 29.0px; }
+@keyframes chevpulse4 {
+  0%, 100% { opacity: 0.55; transform: translateY(0px); }
+  50% { opacity: 1; transform: translateY(2px); }
+}
+</style>
+</defs>
+<g clip-path="url(#c4)">
+<rect x="0" y="0" width="880" height="58" fill="url(#g4)"/>
+<rect x="0" y="0" width="880" height="58" stroke="#6D28D9" stroke-opacity="0.5" fill="none"/>
+<g class="shimmer4">
+<rect x="-40" y="0" width="120" height="58" fill="url(#sh4)" transform="skewX(-20)"/>
+</g>
+<text x="26" y="36.0" font-family="Verdana, Geneva, sans-serif" font-size="19" font-weight="700" fill="#F2EFFF">🧑‍💼&#160;&#160;Next Gen HR: AI Recruitment Platform</text>
+<g class="chev4">
+<path d="M 846 24.0 L 855 33.0 L 864 24.0" stroke="#A78BFA" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

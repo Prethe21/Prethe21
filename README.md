@@ -103,12 +103,12 @@ I treat documentation as a deliverable, not an afterthought, and I'm equally com
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **LLMs & Prompt Engineering** | Advanced | Shipped a production GPT-4 assistant with a built-in uncertainty check so it flags low-confidence answers instead of guessing |
-| **Sensor Fusion & Signal Processing** | Advanced | Permutation-invariant particle filter tracking multiple indistinguishable objects through noise, dropout, and full blackout |
-| **Computer Vision** | Intermediate–Advanced | Designed MicroResNet, a compact CNN matching AlexNet/VGG16/ResNet18 with ~36× fewer parameters, benchmarked across 4 datasets |
-| **Reinforcement Learning** | Intermediate | From-scratch BlackJack agent verified against an exact dynamic-programming optimal policy, not just a published strategy chart |
-| **NLP & Text Classification** | Intermediate | Manipulation-tactic detection under severe class imbalance; unstructured-communication triage into structured records |
-| **MLOps & Embedded Deployment** | Advanced | Took trained models off a notebook into a live production system on embedded hardware at sub-50ms inference |
+| 💬 **LLMs & Prompt Engineering** | <img src="https://img.shields.io/badge/Advanced%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-6D28D9?style=flat-square"/> | Shipped a production GPT-4 assistant with a built-in uncertainty check so it flags low-confidence answers instead of guessing |
+| 📡 **Sensor Fusion & Signal Processing** | <img src="https://img.shields.io/badge/Advanced%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-6D28D9?style=flat-square"/> | Permutation-invariant particle filter tracking multiple indistinguishable objects through noise, dropout, and full blackout |
+| 👁️ **Computer Vision** | <img src="https://img.shields.io/badge/Intermediate%E2%80%93Advanced%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1-3B82F6?style=flat-square"/> | Designed MicroResNet, a compact CNN matching AlexNet/VGG16/ResNet18 with ~36× fewer parameters, benchmarked across 4 datasets |
+| 🎮 **Reinforcement Learning** | <img src="https://img.shields.io/badge/Intermediate%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1-6366F1?style=flat-square"/> | From-scratch BlackJack agent verified against an exact dynamic-programming optimal policy, not just a published strategy chart |
+| 📝 **NLP & Text Classification** | <img src="https://img.shields.io/badge/Intermediate%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1-6366F1?style=flat-square"/> | Manipulation-tactic detection under severe class imbalance; unstructured-communication triage into structured records |
+| 🚀 **MLOps & Embedded Deployment** | <img src="https://img.shields.io/badge/Advanced%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-6D28D9?style=flat-square"/> | Took trained models off a notebook into a live production system on embedded hardware at sub-50ms inference |
 
 </div>
 
@@ -117,7 +117,7 @@ I treat documentation as a deliverable, not an afterthought, and I'm equally com
 ## 📌 Featured Projects
 
 <details>
-<summary><b>🎙️ Teach It To Grandma: ElevenLabs Sonderpreis Winner</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/teach-it-to-grandma.svg" width="100%" alt="Teach It To Grandma: ElevenLabs Sonderpreis Winner"/></summary>
 <br/>
 
 Voice-based teaching tool: explain a concept out loud, and the system checks whether "Grandma" would actually understand it. Built at a THWS hackathon and awarded the **ElevenLabs Sonderpreis** (Best Project Built With ElevenLabs).
@@ -134,7 +134,7 @@ Voice-based teaching tool: explain a concept out loud, and the system checks whe
 </details>
 
 <details>
-<summary><b>🏗️ Single Source of Truth: AI Triage for Construction Communication</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/single-source-of-truth.svg" width="100%" alt="Single Source of Truth: AI Triage for Construction Communication"/></summary>
 <br/>
 
 Reads unstructured written communication (emails, chat, meeting notes) and sorts it into organized records of tasks, costs, and schedules. Built in under six hours at the ConStructAI Hackathon (THWS), with civil engineering students on the team.
@@ -151,7 +151,7 @@ Reads unstructured written communication (emails, chat, meeting notes) and sorts
 </details>
 
 <details>
-<summary><b>✉️ VerifyMatic: Email Verification Engine</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/verifymatic.svg" width="100%" alt="VerifyMatic: Email Verification Engine"/></summary>
 <br/>
 
 Lightweight email-verification engine that checks syntax, DNS, and mailbox deliverability, then flags disposable or role-based addresses before they reach a mailing list.
@@ -168,7 +168,7 @@ Lightweight email-verification engine that checks syntax, DNS, and mailbox deliv
 </details>
 
 <details>
-<summary><b>📈 Trade Wizard: ML-Backed Trade Value Forecasting</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/trade-wizard.svg" width="100%" alt="Trade Wizard: ML-Backed Trade Value Forecasting"/></summary>
 <br/>
 
 Turns raw import/export trade statistics into interactive visual insight and ML-backed value forecasts. Pick a reporting economy, a product sector, and a year, and get a prediction.
@@ -185,7 +185,7 @@ Turns raw import/export trade statistics into interactive visual insight and ML-
 </details>
 
 <details>
-<summary><b>🧑‍💼 Next Gen HR: AI Recruitment Platform</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/next-gen-hr.svg" width="100%" alt="Next Gen HR: AI Recruitment Platform"/></summary>
 <br/>
 
 Automates the early stages of technical hiring: resume-based job matching, skill-based aptitude and coding tests, and a video-interview round with real-time facial emotion analysis and speech-to-text answer evaluation.
@@ -202,7 +202,7 @@ Automates the early stages of technical hiring: resume-based job matching, skill
 </details>
 
 <details>
-<summary><b>🩻 MicroResNet: Efficient Medical Image Classification</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/microresnet.svg" width="100%" alt="MicroResNet: Efficient Medical Image Classification"/></summary>
 <br/>
 
 A PyTorch pipeline benchmarking three standard CNN architectures against a custom, efficiency-focused architecture (MicroResNet) on medical image classification, plus transfer learning under data scarcity.
@@ -219,7 +219,7 @@ A PyTorch pipeline benchmarking three standard CNN architectures against a custo
 </details>
 
 <details>
-<summary><b>🔍 SniffTest: Media Literacy Game & Manipulation Detector</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/snifftest.svg" width="100%" alt="SniffTest: Media Literacy Game &amp; Manipulation Detector"/></summary>
 <br/>
 
 A browser-based media-literacy game that trains users to recognize misleading claims and rhetorical manipulation, backed by local Python APIs for true/misleading and manipulation-tactic classification.
@@ -236,7 +236,7 @@ A browser-based media-literacy game that trains users to recognize misleading cl
 </details>
 
 <details>
-<summary><b>🎯 Particle Filter: Multi-Object Sensor Fusion</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
+<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/particle-filter.svg" width="100%" alt="Particle Filter: Multi-Object Sensor Fusion"/></summary>
 <br/>
 
 A permutation-invariant mixture particle filter tracking multiple indistinguishable balls in 2D ballistic motion under sensor noise, variable observation timing, and full sensor blackout.
