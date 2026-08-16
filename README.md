@@ -77,6 +77,12 @@ I treat documentation as a deliverable, not an afterthought, and I'm equally com
 <img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-6366F1?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
+**Skillset in motion**
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/skills-marquee.svg" width="100%" alt="Animated skillset marquee"/>
+</p>
+
 ---
 
 ## 🤖 AI / ML Expertise
@@ -179,7 +185,7 @@ Automates the early stages of technical hiring: resume-based job matching, skill
 | **Performance** | Real-time webcam emotion classification (Haar Cascade + CNN) and speech-to-text evaluation |
 | **Security** | N/A (prototype, no production data handling) |
 | **Impact** | Automates the early screening stages of a technical hiring pipeline |
-| **Repository** | [Next-Gen-HR](https://github.com/Prethe21/Next-Gen-HR) |
+| **Repository** | [Next-Gen-HR](https://github.com/Prethe21/Next-Gen-HR---Code-files) |
 
 </details>
 
@@ -335,7 +341,7 @@ Built the processing chain for five datasets end to end, with automated checks p
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prethe21&hide_border=true&background=0F0C29&ring=6D28D9&fire=A78BFA&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E5E1FF&sideNums=E5E1FF&dates=9a94b8&border=0F0C29"/>
+<img src="https://streak-stats.demolab.com/?user=Prethe21&hide_border=true&background=0F0C29&ring=6D28D9&fire=A78BFA&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E5E1FF&sideNums=E5E1FF&dates=9a94b8&border=0F0C29"/>
 </p>
 
 ---
