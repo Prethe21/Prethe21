@@ -117,7 +117,7 @@ I treat documentation as a deliverable, not an afterthought, and I'm equally com
 ## 📌 Featured Projects
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/teach-it-to-grandma.svg" width="100%" alt="Teach It To Grandma: ElevenLabs Sonderpreis Winner"/>x</summary>
+<summary><b>x</b> <img src="https://raw.githubusercontent.com/Prethe21/Prethe21/main/assets/projects/teach-it-to-grandma.svg" width="100%" alt="Teach It To Grandma: ElevenLabs Sonderpreis Winner"/></summary>
 <br/>
 
 Voice-based teaching tool: explain a concept out loud, and the system checks whether "Grandma" would actually understand it. Built at a THWS hackathon and awarded the **ElevenLabs Sonderpreis** (Best Project Built With ElevenLabs).
