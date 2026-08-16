@@ -6,9 +6,11 @@
 
 <br/>
 
+<p>
 <img src="https://img.shields.io/badge/🎓_MSc_AI-THWS-6D28D9?style=for-the-badge&labelColor=0F0C29"/>
 <img src="https://img.shields.io/badge/GPA-9.30%2F10.00-6366F1?style=for-the-badge&labelColor=0F0C29"/>
 <img src="https://img.shields.io/badge/📍-Höchberg%2C_Germany-3B82F6?style=for-the-badge&labelColor=0F0C29"/>
+</p>
 
 <br/><br/>
 
@@ -18,9 +20,11 @@
 
 <br/><br/>
 
+<p>
 <img src="https://komarev.com/ghpvc/?username=Prethe21&label=Profile%20Views&color=6D28D9&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Prethe21?label=Followers&style=for-the-badge&color=6366F1&labelColor=0F0C29"/>
 <img src="https://img.shields.io/badge/⭐_Total_Stars-0-3B82F6?style=for-the-badge&labelColor=0F0C29"/>
+</p>
 
 </div>
 
@@ -50,32 +54,40 @@ I treat documentation as a deliverable, not an afterthought, and I'm equally com
 
 **Languages**
 
+<p>
 <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-6366F1?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-6366F1?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
 
 **Frontend**
 
+<p>
 <img src="https://img.shields.io/badge/HTML5-3B82F6?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-6366F1?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-3B82F6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 **Backend & Databases**
 
+<p>
 <img src="https://img.shields.io/badge/Flask-6D28D9?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 **Cloud, DevOps & Tooling**
 
+<p>
 <img src="https://img.shields.io/badge/AWS_Foundations-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-6366F1?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-3B82F6?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-6366F1?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
 **Skillset in motion**
 
@@ -105,7 +117,7 @@ I treat documentation as a deliverable, not an afterthought, and I'm equally com
 ## 📌 Featured Projects
 
 <details>
-<summary><b>🎙️ Teach It To Grandma: ElevenLabs Sonderpreis Winner</b></summary>
+<summary><b>🎙️ Teach It To Grandma: ElevenLabs Sonderpreis Winner</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
 <br/>
 
 Voice-based teaching tool: explain a concept out loud, and the system checks whether "Grandma" would actually understand it. Built at a THWS hackathon and awarded the **ElevenLabs Sonderpreis** (Best Project Built With ElevenLabs).
@@ -122,7 +134,7 @@ Voice-based teaching tool: explain a concept out loud, and the system checks whe
 </details>
 
 <details>
-<summary><b>🏗️ Single Source of Truth: AI Triage for Construction Communication</b></summary>
+<summary><b>🏗️ Single Source of Truth: AI Triage for Construction Communication</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
 <br/>
 
 Reads unstructured written communication (emails, chat, meeting notes) and sorts it into organized records of tasks, costs, and schedules. Built in under six hours at the ConStructAI Hackathon (THWS), with civil engineering students on the team.
@@ -139,7 +151,7 @@ Reads unstructured written communication (emails, chat, meeting notes) and sorts
 </details>
 
 <details>
-<summary><b>✉️ VerifyMatic: Email Verification Engine</b></summary>
+<summary><b>✉️ VerifyMatic: Email Verification Engine</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
 <br/>
 
 Lightweight email-verification engine that checks syntax, DNS, and mailbox deliverability, then flags disposable or role-based addresses before they reach a mailing list.
@@ -156,7 +168,7 @@ Lightweight email-verification engine that checks syntax, DNS, and mailbox deliv
 </details>
 
 <details>
-<summary><b>📈 Trade Wizard: ML-Backed Trade Value Forecasting</b></summary>
+<summary><b>📈 Trade Wizard: ML-Backed Trade Value Forecasting</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
 <br/>
 
 Turns raw import/export trade statistics into interactive visual insight and ML-backed value forecasts. Pick a reporting economy, a product sector, and a year, and get a prediction.
@@ -173,7 +185,7 @@ Turns raw import/export trade statistics into interactive visual insight and ML-
 </details>
 
 <details>
-<summary><b>🧑‍💼 Next Gen HR: AI Recruitment Platform</b></summary>
+<summary><b>🧑‍💼 Next Gen HR: AI Recruitment Platform</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
 <br/>
 
 Automates the early stages of technical hiring: resume-based job matching, skill-based aptitude and coding tests, and a video-interview round with real-time facial emotion analysis and speech-to-text answer evaluation.
@@ -190,7 +202,7 @@ Automates the early stages of technical hiring: resume-based job matching, skill
 </details>
 
 <details>
-<summary><b>🩻 MicroResNet: Efficient Medical Image Classification</b></summary>
+<summary><b>🩻 MicroResNet: Efficient Medical Image Classification</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
 <br/>
 
 A PyTorch pipeline benchmarking three standard CNN architectures against a custom, efficiency-focused architecture (MicroResNet) on medical image classification, plus transfer learning under data scarcity.
@@ -207,7 +219,7 @@ A PyTorch pipeline benchmarking three standard CNN architectures against a custo
 </details>
 
 <details>
-<summary><b>🔍 SniffTest: Media Literacy Game & Manipulation Detector</b></summary>
+<summary><b>🔍 SniffTest: Media Literacy Game & Manipulation Detector</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
 <br/>
 
 A browser-based media-literacy game that trains users to recognize misleading claims and rhetorical manipulation, backed by local Python APIs for true/misleading and manipulation-tactic classification.
@@ -224,7 +236,7 @@ A browser-based media-literacy game that trains users to recognize misleading cl
 </details>
 
 <details>
-<summary><b>🎯 Particle Filter: Multi-Object Sensor Fusion</b></summary>
+<summary><b>🎯 Particle Filter: Multi-Object Sensor Fusion</b> <img src="https://img.shields.io/badge/View_Details_%E2%96%BE-6D28D9?style=flat-square" valign="middle"/></summary>
 <br/>
 
 A permutation-invariant mixture particle filter tracking multiple indistinguishable balls in 2D ballistic motion under sensor noise, variable observation timing, and full sensor blackout.
@@ -304,8 +316,10 @@ Built the processing chain for five datasets end to end, with automated checks p
 
 **AWS**
 
+<p>
 <img src="https://img.shields.io/badge/AWS_Academy-Machine_Learning_Foundations-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-6366F1?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 **Google**
 
@@ -313,8 +327,10 @@ Built the processing chain for five datasets end to end, with automated checks p
 
 **NPTEL**
 
+<p>
 <img src="https://img.shields.io/badge/NPTEL-Discipline_Star-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NPTEL-Domain_Scholar,_Data_Science-6366F1?style=for-the-badge"/>
+</p>
 
 ---
 
