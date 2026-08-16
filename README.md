@@ -357,7 +357,7 @@ Built the processing chain for five datasets end to end, with automated checks p
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Prethe21&hide_border=true&background=0F0C29&ring=6D28D9&fire=A78BFA&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E5E1FF&sideNums=E5E1FF&dates=9a94b8&border=0F0C29&rev=2"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prethe21&hide_border=true&background=0F0C29&ring=6D28D9&fire=A78BFA&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E5E1FF&sideNums=E5E1FF&dates=9a94b8&border=0F0C29"/>
 </p>
 
 ---
