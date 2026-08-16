@@ -352,8 +352,8 @@ Built the processing chain for five datasets end to end, with automated checks p
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Prethe21&show_icons=true&hide_border=true&count_private=true&bg_color=0F0C29&title_color=A78BFA&icon_color=6366F1&text_color=E5E1FF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prethe21&layout=compact&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=6366F1&text_color=E5E1FF"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=Prethe21&show_icons=true&hide_border=true&count_private=true&bg_color=0F0C29&title_color=A78BFA&icon_color=6366F1&text_color=E5E1FF"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prethe21&layout=compact&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=6366F1&text_color=E5E1FF"/>
 </p>
 
 <p align="center">
@@ -365,7 +365,7 @@ Built the processing chain for five datasets end to end, with automated checks p
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prethe21&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=8"/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Prethe21&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=8"/>
 </p>
 
 ---
