@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6D28D9,100:3B82F6&height=230&section=header&text=Prethebha%20Muthukumaran&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Agentic%20AI%20%26%20Applied%20ML%20%C2%B7%20Systems%20That%20Know%20What%20They%20Don't%20Know&descAlignY=52&descSize=16&descColor=E5E1FF&rev=2" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6D28D9,100:3B82F6&height=230&section=header&text=Prethebha%20Muthukumaran&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Agentic%20AI%20and%20Applied%20ML%20%C2%B7%20Systems%20That%20Know%20What%20They%20Don't%20Know&descAlignY=52&descSize=16&descColor=E5E1FF" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Software+Engineer+%7C+AI%2FML+Engineer;Building+Trustworthy+LLM+Systems;Exploring+Agentic+AI+Workflows;Turning+Noisy+Data+Into+Reliable+Signal" alt="typing"/>
 
